@@ -1,0 +1,11 @@
+WebScrapingCommand: Downloaded https://www.imdb.com/feature/genre/
+IMDBGenresScrapingCommand: Discovered 14 genres.
+WebScrapingCommand: Downloaded https://www.imdb.com/search/title?genres=comedy
+IMDBGenrePageScrapingCommand: Discovered 50 movies.
+WebScrapingCommand: Downloaded https://www.imdb.com/search/title?genres=sci-fi
+IMDBGenrePageScrapingCommand: Discovered 50 movies.
+WebScrapingCommand: Downloaded https://www.imdb.com/search/title?genres=horror
+IMDBGenrePageScrapingCommand: Discovered 50 movies.
+WebScrapingCommand: Downloaded https://www.imdb.com/search/title?genres=romance
+IMDBGenrePageScrapingCommand: Discovered 50 movies.
+...

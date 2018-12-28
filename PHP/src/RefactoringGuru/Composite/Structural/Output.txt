@@ -1,0 +1,8 @@
+Client: I get a simple component:
+RESULT: Leaf
+
+Client: Now I get a composite tree:
+RESULT: Branch(Branch(Leaf+Leaf)+Branch(Leaf))
+
+Client: I can merge two components without checking their classes:
+RESULT: Branch(Branch(Leaf+Leaf)+Branch(Leaf)+Leaf)
